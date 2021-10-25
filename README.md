@@ -37,7 +37,7 @@ A aplicação consiste em:
 ---
     Consultar CEP
     GET -> http://localhost:8080/cep/05782370
- ---   
-   Atualizar pessoas
+---   
+    Atualizar pessoas
     PUT -> http://localhost:8080/pessoas
 ---
