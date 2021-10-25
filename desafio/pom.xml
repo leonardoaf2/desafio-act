@@ -12,7 +12,7 @@
 	<artifactId>desafio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>desafio</name>
-	<description>Desafio 01 - Bootcamp Spring React</description>
+	<description>Desafio</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
